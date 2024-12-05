@@ -1,0 +1,313 @@
+
+  *{
+    padding: 0;
+    margin: 0;
+  }
+  body2{
+    height: 4000px;
+  }
+.header{
+background-color: rgb(226, 28, 150);
+width: 100%;
+ height: 60px;
+ position: fixed;
+ top: 0;
+ left: 0;
+ opacity: 0.7;
+}
+   
+  .parent{
+    width: 100%;
+    height: 100vh;
+    background-size: cover;
+
+  }
+
+   .overlay3{
+    background-color:rgba(0, 0,0, 0.5);
+    
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+   bottom: 0;
+  
+   }
+
+  .img1{
+width: 120px;
+height: 60px;
+margin-left: 200px;
+  float: left;
+  }
+   
+    ul{
+      float: right;
+      margin-right: 250px;
+    }
+     li{
+     list-style: none;
+     display: inline-block;
+     margin-left: 40px;
+     font-size: 22px;
+     color: ghostwhite;
+     }
+   .img2{
+   width: 100%;
+   height: 100vh;
+
+   }
+   
+    body{
+      height: 4000px;
+    }
+
+
+  .listl{
+    float:right;
+    margin-right: 200px;
+  }
+
+
+    
+   .listl li{
+   list-style: none;
+   display: inline-block;
+   margin-left: 40px;
+   font-size: 22px;
+   color: azure;
+   text-transform: capitalize;
+ }
+
+
+   .listl li a{
+    color: aliceblue;
+    text-decoration: none;
+   }
+
+   .content4{
+     width: 55%;
+    position: absolute;
+    margin: auto;
+   top: 50%;
+   left: 50%;
+   transform: translate( -50% ,  -50% );
+   text-align: center;
+   color: aliceblue;
+
+   }
+    
+   .title1 {
+    font-size: 55px;
+    letter-spacing: 3px;
+    margin-bottom: 30px;
+   }
+
+   .content4 p{
+    font-size: 30px;
+    letter-spacing: 3px;
+    margin-bottom: 20px;
+   }
+
+   .btn{
+    width: 150px;
+    height: 50px;
+    font-size: 22px;
+    border-radius: 10px;
+    text-transform: capitalize;
+    border: 0;
+    margin-left: 15px;
+    cursor: pointer;
+   }
+
+  .btn2{
+    background-color: pink;
+    color: aliceblue;
+  }
+
+ .btn:hover{
+  opacity: 0.5;
+ }
+  h3 
+ .underline{
+  width: 160px;
+height: 3px;
+border-radius: 50%;
+background-color: #007afd;
+
+ }
+  
+ .content5  {
+   width: 60%;
+  position: absolute;
+   margin: auto;
+   top: 120%;
+   left: 60%;
+   transform: translate(-70% , -70% );
+text-align: center;
+   color:pink;
+  height: 150px;
+   
+
+ }
+ 
+     .title2{
+      font-size: 40px;
+      text-decoration: underline;
+      
+    
+      
+     }
+     .container{
+      width: 70%;
+      position: absolute;
+      margin: auto;
+      top: 155%;
+      left: 70%;
+      transform: translate(-70% , -70% );
+      text-align: center;
+     }
+
+
+
+
+   .processors-item{
+    float: left;
+    width: 30%;
+    background-color: pink;
+    padding: 14px;
+    text-align: center;
+  
+   }
+   .center{
+    margin: 0 5%;
+   }
+   *{
+    padding: 0;
+    box-sizing: border-box;
+   }
+
+.processors-image{
+width: 95%;
+margin: auto;
+position: relative;
+
+}
+
+.processors-image img{
+  width: 100%;
+
+}
+
+.processors-overlay{
+  position: absolute;
+  top: 40;
+  left: 10;
+  right: 40;
+}
+
+.title5{
+  font-size: 40px;
+  text-decoration: underline;
+}
+
+  .content6{
+    width: 60%;
+    position: absolute;
+    margin: auto;
+    top: 220%;
+    left: 60%;
+    transform: translate(-70% , -70% );
+    text-align: center;
+    color: palevioletred;
+    height: 150px;
+  }
+
+
+   .one1{
+    width: 100%;
+    position: absolute;
+    margin: auto;
+    top: 350%;
+    left: 75%;
+    transform: translate(-70% ,-70% );
+    text-align: center;
+   }
+    .processors-image7{
+      width: 95%;
+      margin: auto;
+    }
+    
+.processors-image .img7{
+  width: 100%;
+}
+
+
+ .one2{
+  width: 100%;
+  position: absolute;
+  margin: auto;
+  top: 500%;
+  left: 75%;
+  transform: translate(-70% ,-70% );
+  text-align: center;
+ }
+
+ .processors-image8{
+  width: 95%;
+  margin: auto;
+ }
+
+
+
+ .content7{
+  width: 60%;
+  position: absolute;
+  margin: auto;
+  top: 650%;
+  left: 60%;
+  transform: translate(-70% , -70% );
+  text-align: center;
+  color: palevioletred;
+  height: 150px;
+ }
+  .title6{
+    font-size: 40px;
+    text-decoration: underline;
+  }
+
+.one3{
+  width: 100%;
+  position: absolute;
+margin: auto;
+top: 780%;
+  left: 75%;
+  transform: translate(-70% ,-70% );
+  text-align: center;
+}
+
+.processors-image9{
+  width: 95%;
+  margin: auto;
+}
+.one4{
+  width: 100%;
+  position: absolute;
+  margin: auto;
+  top: 910%;
+  left: 75%;
+  transform: translate(-70% ,-70% );
+  text-align: center;
+}
+
+.processors-image10{
+  margin: 95%;
+  margin: auto;
+}
+
+
+
+
+
+
+
